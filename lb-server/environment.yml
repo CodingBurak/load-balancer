@@ -1,0 +1,5 @@
+name: lb-environment
+
+dependencies:
+  - python=3.11
+  - aiohttp
