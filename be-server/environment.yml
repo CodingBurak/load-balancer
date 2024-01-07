@@ -1,0 +1,5 @@
+name: backend-environment
+
+dependencies:
+  - python=3.11
+  - aiohttp
